@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+
+main{
+    box-sizing: 10px;
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 20px;
+    background: #0E6606;
+}
+
+button{
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #fff;
+    background: #EF4D0E;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 5px;
+}
